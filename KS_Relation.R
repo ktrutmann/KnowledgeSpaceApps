@@ -1,7 +1,7 @@
 # App to illustrate and practice the relationship between surmise relations
 # and the resulting knowledge structure
 #
-# Created by Kevin Trutmann (k.trutmann@unibas.ch)
+# Created by Kevin Trutmann (k.trutmann@gmail.com)
 # with code by Martin Losert and Prof. Juergen Heller
 
 
